@@ -62,7 +62,7 @@ dependencies {
     implementation 'androidx.annotation:annotation:1.5.0'
 
     implementation 'com.github.HardcodedCat.termux-monet:termux-shared:v0.118.0'
-    implementation 'com.github.HardcodedCat.termux-monet:terminal-view:v0.118.0'
+    implementation 'com.github.HardcodedCat.termux-monet:terminal-view:0.118.0-24'
 
     // Use if below libraries are published locally by termux-app with `./gradlew publishReleasePublicationToMavenLocal` and used with `mavenLocal()`.
     // If updates are done, republish there and sync project with gradle files here
